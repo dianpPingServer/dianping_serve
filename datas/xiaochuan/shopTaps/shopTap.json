@@ -2,12 +2,18 @@
   "shopName": "行运打边炉",
   "branchName": "三元里店",
   "comment": "8770",
+  "logoUrl":"http://www.dpfile.com/app/pc-common/i/logo_user@2x.png",
+  "userId": "2175288007",
+  "userNickName": "小川",
+  "userFace": "https://p0.meituan.net/userheadpicbackend/9f4a856a840e7ccbbb6d0fca05a499817900.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
   "score": "4.89",
   "surroundings": "4.90",
   "service": "4.69",
   "address": "宏福苑尚硅谷",
   "phone": "010-6479655478 18229930279",
   "branch": "5",
+  "picUlrl":"https://img.meituan.net/msmerchant/90ed2ebe7ba28080340ca9c3c005a1653418639.jpg%40280w_212h_1e_1c_1l%7Cwatermark%3D0",
+  
   "finalShopTabs": [
     "推荐菜",
     "环境",
@@ -78,8 +84,9 @@
     }
   ],
   "dealDetails": [
+   
     {
-      "id": 27836352,
+      "id": 27838352,
       "shortTitle": "行运打边炉",
       "titleDesc": "仅售90元！价值100元的代金券1张，除酒水外全场通用，可叠加使用2张，提供免费WiFi。",
       "productTitle": "代金券1张",
@@ -135,8 +142,150 @@
         "endDate": null,
         "dealCurrentJoinMap": null
       }
+    },
+    {
+      "id": 607196273,
+      "shortTitle": "行运打边炉",
+      "titleDesc": "仅售1836元！最高价值2040元的必吃榜甄选套餐B，建议4-6人使用，提供免费WiFi。",
+      "productTitle": "必吃榜甄选套餐B",
+      "featureTitle": "建议4-6人使用，提供免费WiFi",
+      "price": 1836.00,
+      "marketPrice": 2040.00,
+      "beginDate": 1564148446000,
+      "endDate": 1606147199000,
+      "overdueAutoRefund": true,
+      "autoRefund": 1,
+      "sales": 51,
+      "dealGroupSalesDTO": {
+        "sales": 51,
+        "salesTag": "已售51",
+        "merge": false,
+        "cycle": 0
+      },
+      "attributes": null,
+      "realTimeInfoDTO": {
+        "dealGroupId": 0,
+        "currentJoin": 51,
+        "remain": 0,
+        "endDate": null,
+        "dealCurrentJoinMap": null
+      }
+    },
+    {
+      "id": 607176273,
+      "shortTitle": "行运打边炉",
+      "titleDesc": "仅售1836元！最高价值2040元的必吃榜甄选套餐B，建议4-6人使用，提供免费WiFi。",
+      "productTitle": "必吃榜甄选套餐B",
+      "featureTitle": "建议4-6人使用，提供免费WiFi",
+      "price": 1836.00,
+      "marketPrice": 2040.00,
+      "beginDate": 1564148446000,
+      "endDate": 1606147199000,
+      "overdueAutoRefund": true,
+      "autoRefund": 1,
+      "sales": 51,
+      "dealGroupSalesDTO": {
+        "sales": 51,
+        "salesTag": "已售51",
+        "merge": false,
+        "cycle": 0
+      },
+      "attributes": null,
+      "realTimeInfoDTO": {
+        "dealGroupId": 0,
+        "currentJoin": 51,
+        "remain": 0,
+        "endDate": null,
+        "dealCurrentJoinMap": null
+      }
+    },
+    {
+      "id": 607556273,
+      "shortTitle": "行运打边炉",
+      "titleDesc": "仅售1836元！最高价值2040元的必吃榜甄选套餐B，建议4-6人使用，提供免费WiFi。",
+      "productTitle": "必吃榜甄选套餐B",
+      "featureTitle": "建议4-6人使用，提供免费WiFi",
+      "price": 1836.00,
+      "marketPrice": 2040.00,
+      "beginDate": 1564148446000,
+      "endDate": 1606147199000,
+      "overdueAutoRefund": true,
+      "autoRefund": 1,
+      "sales": 51,
+      "dealGroupSalesDTO": {
+        "sales": 51,
+        "salesTag": "已售51",
+        "merge": false,
+        "cycle": 0
+      },
+      "attributes": null,
+      "realTimeInfoDTO": {
+        "dealGroupId": 0,
+        "currentJoin": 51,
+        "remain": 0,
+        "endDate": null,
+        "dealCurrentJoinMap": null
+      }
+    },
+    {
+      "id": 607158273,
+      "shortTitle": "行运打边炉",
+      "titleDesc": "仅售1836元！最高价值2040元的必吃榜甄选套餐B，建议4-6人使用，提供免费WiFi。",
+      "productTitle": "必吃榜甄选套餐B",
+      "featureTitle": "建议4-6人使用，提供免费WiFi",
+      "price": 1836.00,
+      "marketPrice": 2040.00,
+      "beginDate": 1564148446000,
+      "endDate": 1606147199000,
+      "overdueAutoRefund": true,
+      "autoRefund": 1,
+      "sales": 51,
+      "dealGroupSalesDTO": {
+        "sales": 51,
+        "salesTag": "已售51",
+        "merge": false,
+        "cycle": 0
+      },
+      "attributes": null,
+      "realTimeInfoDTO": {
+        "dealGroupId": 0,
+        "currentJoin": 51,
+        "remain": 0,
+        "endDate": null,
+        "dealCurrentJoinMap": null
+      }
+    },
+    {
+      "id": 607156273,
+      "shortTitle": "行运打边炉",
+      "titleDesc": "仅售1836元！最高价值2040元的必吃榜甄选套餐B，建议4-6人使用，提供免费WiFi。",
+      "productTitle": "必吃榜甄选套餐B",
+      "featureTitle": "建议4-6人使用，提供免费WiFi",
+      "price": 1836.00,
+      "marketPrice": 2040.00,
+      "beginDate": 1564148446000,
+      "endDate": 1606147199000,
+      "overdueAutoRefund": true,
+      "autoRefund": 1,
+      "sales": 51,
+      "dealGroupSalesDTO": {
+        "sales": 51,
+        "salesTag": "已售51",
+        "merge": false,
+        "cycle": 0
+      },
+      "attributes": null,
+      "realTimeInfoDTO": {
+        "dealGroupId": 0,
+        "currentJoin": 51,
+        "remain": 0,
+        "endDate": null,
+        "dealCurrentJoinMap": null
+      }
     }
+  
   ],
+
   "adLegalTag": "广告",
   "launches": [
     {
@@ -2595,5 +2744,27 @@
         "anonymous": false
       }
     }
-  ]
+  ],
+  "userCard": {
+    "logoUrl":"http://www.dpfile.com/app/pc-common/i/logo_user@2x.png",
+    "userId": "2175288007",
+    "userNickName": "小川",
+    "userFace": "https://p0.meituan.net/userheadpicbackend/9f4a856a840e7ccbbb6d0fca05a499817900.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+    "userPower": 10,
+    "manaScore": null,
+    "reviewCount": 0,
+    "noteCount": 0,
+    "fansCount": 0,
+    "vipIconLevel": 0,
+    "vipIcon": "",
+    "city":"长沙",
+    "category":"美食",
+    "attention": "1000",
+    "fans": "98765263",
+    "star": "9999767",
+    "time": "2018-10-01",
+    "introduction": "欺负我胖虎？？？？"
+ 
+   
+  }
 }
