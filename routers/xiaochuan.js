@@ -63,4 +63,11 @@ XiaoChuanRouter.get('/readmessage', (request, response) => {
 
 
 
+
+
+// const shopTags = require('../datas/xiaochuan/shopTaps/shopTap.json')
+// XiaoChuanRouter.get('/getshoptags',(request,response)=>{
+//   response.send(shopTags)
+// })
+
 module.exports = XiaoChuanRouter
