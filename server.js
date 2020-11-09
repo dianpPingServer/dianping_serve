@@ -4,9 +4,9 @@ const port = 3003
 const XiaoChuanRouter = require('./routers/xiaochuan')
 const WuLeiRouter = require('./routers/wulei')
 //引入db模块---用于连接数据库
-//const db = require('./db')
+const db = require('./db')
 //引入student模型对象---用于增删改查用户
-////const userModel = require('./models/userModel')
+const userModel = require('./models/userModel')
 
 //引入md5加密
 const md5 = require('md5')
